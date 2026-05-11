@@ -1,0 +1,1 @@
+{"column_names": ["age", {"income": [{"Above-50K": "1"}, {"Below-50K": "0"}]}, {"workclass": [{"empl-unknown": "1000"}, {"govt-employed": "0100"}, {"self-employed": "0010"}, {"unemployed": "0001"}]}], "data_spec": ["n5", "b1", "c4"], "n_qubits": 10}

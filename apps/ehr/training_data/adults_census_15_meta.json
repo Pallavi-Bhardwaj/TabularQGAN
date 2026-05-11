@@ -1,0 +1,1 @@
+{"column_names": ["age", {"workclass": [{"empl-unknown": "1000"}, {"govt-employed": "0100"}, {"self-employed": "0010"}, {"unemployed": "0001"}]}, {"education": [{"Advanced": "100000"}, {"Bachelors": "010000"}, {"Below-HS": "001000"}, {"HS-grad": "000100"}, {"Some-College": "000010"}, {"Masters-or-equivalent": "000001"}]}], "data_spec": ["n5", "c4", "c6"], "n_qubits": 15}

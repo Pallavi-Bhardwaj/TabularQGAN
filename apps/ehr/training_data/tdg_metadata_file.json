@@ -1,0 +1,9 @@
+{
+"METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+"columns": {
+    "education": {"sdtype": "categorical"},
+    "workclass": {"sdtype": "categorical"},
+    "income": {"sdtype": "categorical"},
+    "gender": {"sdtype": "categorical"}
+    }
+}

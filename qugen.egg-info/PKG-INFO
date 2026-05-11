@@ -1,0 +1,23 @@
+Metadata-Version: 2.2
+Name: qugen
+Version: 0.1
+Author: Quantum Technology & Application Consortium (QUTAC)
+License: Apache License 2.0
+License-File: LICENSE
+Requires-Dist: cma==3.2.2
+Requires-Dist: colorama==0.4.5
+Requires-Dist: flax==0.6.0
+Requires-Dist: jax==0.3.25
+Requires-Dist: jaxlib==0.3.25
+Requires-Dist: matplotlib==3.5.3
+Requires-Dist: numpy==1.23.2
+Requires-Dist: optax==0.1.3
+Requires-Dist: pandas==1.4.3
+Requires-Dist: PennyLane==0.29.0
+Requires-Dist: pytest==7.4.0
+Requires-Dist: scipy==1.9.0
+Requires-Dist: setuptools==61.2.0
+Requires-Dist: tqdm==4.64.1
+Dynamic: author
+Dynamic: license
+Dynamic: requires-dist
