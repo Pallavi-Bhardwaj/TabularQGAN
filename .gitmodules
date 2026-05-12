@@ -1,0 +1,3 @@
+[submodule "vae-bgm_data_generator"]
+	path = vae-bgm_data_generator
+	url = https://github.com/cjones432/vae-bgm_data_generator
